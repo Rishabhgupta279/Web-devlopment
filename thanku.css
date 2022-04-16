@@ -1,0 +1,88 @@
+.logo{
+        background-color:#A4C0CF;;
+        display: flex;
+        float: left;
+        width: 180px;
+        position: absolute;
+         height: 40px;
+         left: 115px;
+        top: 12px;
+
+}
+.nav-btn{
+    background: #06BA63;
+color: white;
+border: 0px;
+border-radius: 5px;
+width: 10vw;
+height: 5vh;
+position: relative;
+left:80vw;
+top: 2.5vh;
+}
+.image1{
+    position: relative;
+    top: 8vh;
+}
+.text{
+    position: relative;
+    text-align: right;
+    bottom: 45vh;
+    
+}
+.btn2{
+    background: #06BA63;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    width: 15vw;
+    height: 7vh;
+    position: relative;
+    right: 5vw;
+    top: 3vh;
+}
+.foter{
+    background-color: black;
+   
+}
+.logo1{
+    background-color:#A4C0CF;;
+    display: flex;
+    float: left;
+    width: 180px;
+    position: absolute;
+     height: 40px;
+    left: 4vw;
+    bottom: -24vh;
+}
+.heading{
+    list-style-type: none;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+   
+
+}
+.table1{
+    padding: 2vw;
+}
+    
+.foot-text{
+    color: white;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+.foot-bt{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+
+}
+.one{
+    position: relative;
+right: 25vh;
+}
+.two{
+    position: relative;
+left: 15vh;
+}
